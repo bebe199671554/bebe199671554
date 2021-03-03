@@ -5,8 +5,9 @@ so~
 ✨Chinese resume✨ [cake resume](https://www.cakeresume.com/46kuma)
 ✨English resume✨ otw
 
-hashtag: #Angular2+ #Vue.js #TypeScript
----
+highlight: #Angular2+ #Vue.js #TypeScript
+
+
 ### 📫 How to reach me
 - email: bebe1996715548@gmail.com
 - linkedIn: https://www.linkedin.com/in/%E9%9F%8B%E5%AE%89-%E9%99%B3-a820b4188/
