@@ -1,4 +1,4 @@
-### Hi there 👋 I am Kuma Welcome to me github.
+### Hi there 👋 I am Kuma. Welcome to me github.
 
 Now I looking for front-end developer job.  
 so~  
