@@ -7,9 +7,9 @@ so~
 
 hashtag: #Angular2+ #Vue.js #TypeScript
 ---
-###📫 How to reach me
-email: bebe1996715548@gmail.com
-linkedIn: https://www.linkedin.com/in/%E9%9F%8B%E5%AE%89-%E9%99%B3-a820b4188/
+### 📫 How to reach me
+- email: bebe1996715548@gmail.com
+- linkedIn: https://www.linkedin.com/in/%E9%9F%8B%E5%AE%89-%E9%99%B3-a820b4188/
 <!--
 **bebe199671554/bebe199671554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
