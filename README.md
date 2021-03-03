@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Kuma Welcome to me github.
 
-Now I looking for front-end engineer job.  
+Now I looking for front-end developer job.  
 so~  
 ✨Chinese resume✨ [cake resume](https://www.cakeresume.com/46kuma)  
 ✨English resume✨ otw  
