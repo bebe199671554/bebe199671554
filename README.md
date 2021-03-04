@@ -3,7 +3,7 @@
 Now I looking for front-end developer job.  
 so~  
 ✨Chinese resume✨ [cake resume](https://www.cakeresume.com/46kuma)  
-✨English resume✨ otw  
+✨English resume✨ [cake resume](https://www.cakeresume.com/46kuma-ef61fe)  
 
 highlight: #Angular2+ #Vue.js #TypeScript  
 
